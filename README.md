@@ -16,25 +16,25 @@ Software: Python 3.7.6, Jupyter Notebook, Tableau Public.
 The [full Tableau Public storyboard can be found here](https://public.tableau.com/app/profile/natasha.lamperti/viz/NYCitibikeChallenge_16441908614410/Deliverable3Story?publish=yes)
 
 #### Checkout Times for Users
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/bikesharing/blob/main/Screenshots/Checkout%20Times%20For%20Users.png)
 
 #### Checkout Times by Gender
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/bikesharing/blob/main/Screenshots/Checkout%20Times%20by%20Gender.png)
 
 ### Trips by Weekday per Hour
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/bikesharing/blob/main/Screenshots/Trips%20by%20Weekday%20per%20Hour.png)
 
 #### Trips by Gender 
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/bikesharing/blob/main/Screenshots/Trips%20by%20Gender.png)
 
 #### User Trips by Gender 
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/bikesharing/blob/main/Screenshots/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 #### Customers 
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/bikesharing/blob/main/Screenshots/Customers.png)
 
 #### Bike Repair 
-![This is an image]()
+![This is an image](https://github.com/smilesandsobs/bikesharing/blob/main/Screenshots/Bike%20Repair.png)
 
 ## Summary:
 
